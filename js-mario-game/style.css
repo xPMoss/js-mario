@@ -1,0 +1,103 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    display: block;
+    overflow: ;
+    position: relative;
+    top: 0;
+    left: 0;
+
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+p{
+    margin:0;
+
+}
+
+#wrapper{
+
+    margin: auto;
+    margin-top: 0;
+
+}
+
+#myCanvas{
+    box-sizing: border-box;
+    position: relative;
+    float: left;
+    margin: 0;
+    padding: 0;
+    display: block;
+
+    border: 4px solid black;
+    background-color: #5c94fc;
+
+    
+
+}
+
+
+#info{
+    box-sizing: border-box;
+    position: relative;
+    float: left;
+    padding: 5px;
+    top: 0;
+    left: 0px;
+
+    width: 100%;
+    height: 80px;
+    border: 4px solid black;
+
+
+}
+
+#infoP{
+    margin: 0;
+    padding: 0;
+    display: block;
+
+    position: relative;
+    top: 10px;
+    left: 0;
+
+    width: 100%;
+    height: 100px;
+    border: 1px solid black;
+
+
+}
+
+#infoP2{
+    margin: 0;
+    padding: 0;
+    display: block;
+
+    position: relative;
+    top: 20px;
+    left: 0;
+
+    width: 100%;
+    height: 20px;
+    border: 1px solid black;
+
+
+}
+#infoP3{
+    margin: 0;
+    padding: 0;
+    display: block;
+
+    position: relative;
+    top: 30px;
+    left: 0;
+
+    width: 100%;
+    height: 50px;
+    border: 1px solid black;
+
+
+}
